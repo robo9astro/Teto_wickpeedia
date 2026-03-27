@@ -1,1 +1,1 @@
-console.log("pato é tilt e této is tha best🥖")
+console.log("spamteto spamteto spamteto [[baguette blocked]]")
